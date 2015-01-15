@@ -1,0 +1,8 @@
+{
+  "name": "jquery-doc:export",
+    "description": "meteorite package based on https://github.com/markswindoll/jQuery-Word-Export",
+    "homepage": "https://github.com/TimHeckel/meteor-jquery-ui",
+    "author": "Renato Santana",
+    "version": "1.0.0",
+    "git": "https://github.com/TimHeckel/meteor-jquery-ui.git"
+}
