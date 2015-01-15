@@ -1,8 +1,8 @@
 Package.describe({
-  name: "jQuery-Word-Export",
+  name: "jQuery-Word-Exportcd ",
   summary: "meteorite package based on https://github.com/markswindoll/jQuery-Word-Export",
   version: "1.0.0",
-  git: "https://github.com/froala/meteor-froala/"
+  git: "https://github.com/RenatoSantana/Meteor-jQuery-Word-Export.git"
 });
 
 api.use([
